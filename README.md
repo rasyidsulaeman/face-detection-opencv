@@ -1,3 +1,3 @@
 # Face Detection
 
-(image)[output.gif]
+![output](output.gif)
